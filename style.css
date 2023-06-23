@@ -49,6 +49,6 @@ justify-content: center;
   /* Media query for mobile devices */
   @media screen and (max-width: 600px) {
     .container {
-      grid-template-columns: 1fr; /* Single column for mobile */
+      grid-template-columns: 1fr; 
     }
   }
