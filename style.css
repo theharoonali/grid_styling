@@ -7,7 +7,6 @@ body {
   .container {
     display: grid;
     grid-template-columns: 1fr 1fr; /* Two columns, each taking 50% width */
-    background-color: aqua;
   }
 
   .left-div {
@@ -36,10 +35,11 @@ body {
     font-weight: bold;  display: flex;
 align-items: center;
 justify-content: center;
+padding: 10px;
   }
 
   .bottom-div {
-
+    padding: 10PX;
     font-size: 16px;  display: flex;
 align-items: center;
 justify-content: center;
